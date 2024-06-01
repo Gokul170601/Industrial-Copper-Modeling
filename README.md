@@ -39,18 +39,21 @@ This project leverages machine learning to predict the selling price and status 
 - Built a classification model for status prediction.
 - Encoded categorical features and optimized hyperparameters.
 - Pickled the trained models for deployment.
+### Streamlit Application
+- Developed a user interface for interacting with the models.
+- Predicted selling price and status based on user input.
 
 ### 👨‍🏫 Reference
 * [Python Documentation](https://docs.python.org/3/)
 * [pandas Documentation](https://pandas.pydata.org/docs/)
-* []()
+* [scikit-learn Documentation](https://scikit-learn.org/0.21/index.html)
+* [numpy Documentation](https://numpy.org/doc/)
 * [Streamlit Documentation](https://docs.streamlit.io/)
-* 
 
 
 ### 🎥 Demo Vide
 
-YT Link :
+YT Link : https://youtu.be/qsAPGlfTZ-k
 
 ### 📞 Contact
 LINKEDIN: www.linkedin.com/in/gokul-m-j17/             
